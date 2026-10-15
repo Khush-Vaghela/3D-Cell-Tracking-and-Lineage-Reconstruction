@@ -198,7 +198,7 @@ archive/
 ├── training-detector.ipynb        ← Detector training (Phase 1)
 ├── training-division-mlp.ipynb    ← Division MLP training (Phase 4.5)
 ├── submission-generation.ipynb    ← Full inference pipeline + CSV generation
-└── Train U-NET/
+└── archive/
     ├── detector_model.py          ← Detector3D + DetectorConfig
     ├── temporal_unet.py           ← TemporalUNet3D backbone (from baseline)
     ├── targets.py                 ← Sparse-GT heatmap targets + Focal Loss
